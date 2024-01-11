@@ -25,12 +25,11 @@ Some of my hobbies include solving Euclidean Geometry problems and learning code
         <h2>Education</h2>
         <ul class="fa-ul">
             <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>
-                <font size="+1">Ph.D. in Economics</font><br><small>Emory University</small><br><small>2022 -
-                    now</small>
+                <font size="+1">Ph.D. in Economics</font><br><small>Emory University, 2022 - now</small>
             </li>
             <li><span class="fa-li"><i class="fa fa-graduation-cap"></i></span>
                 <font size="+1">Bachelor's Degree in Applied Economics</font><br><small>Universidad
-                    Centroamericana</small><br><small>April 2021</small><br>
+                    Centroamericana - April 2021</small>
             </li>
         </ul>
     </div>
