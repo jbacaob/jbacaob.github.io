@@ -34,4 +34,4 @@ ECO128 - Macroeconomics II
 <!-- ECO022 - Econometrics II (Time Series Econometrics) -->
 ECO022 - Econometrics II
 * Teaching Assistant for Prof. A. López-Espinoza, M. Sc.
-* Relevant topics: Statistical theory of time series, filtering and decomposition, multivariate and univariate time series models
+* Relevant topics: Statistical theory of time series, filtering and decomposition, multivariate and univariate time series models.
