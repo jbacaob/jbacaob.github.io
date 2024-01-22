@@ -15,6 +15,6 @@ order: 1
 
 ## Mathematical Handouts
 
-1. Baca, J. (2020). [On Mixtilinear Incircles](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2020-02/mr_2_2020_mixtilinear.pdf). Mathematical Reflections, 2.
+1. Baca, J. (2020). [On Mixtilinear Incircles](https://jbacaob.com/assets/pdf/mr_2_2020_mixtilinear.pdf). Mathematical Reflections, 2.
 
-2. Baca, J. (2019). [On a Special Center of Spiral Similarity](https://www.awesomemath.org/wp-pdf-files/math-reflections/mr-2019-01/mr_1_2019_spiral_similarity.pdf). Mathematical Reflections, 1.
+2. Baca, J. (2019). [On a Special Center of Spiral Similarity](https://jbacaob.com/assets/pdf/mr_1_2019_spiral_similarity.pdf). Mathematical Reflections, 1.
