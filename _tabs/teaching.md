@@ -10,7 +10,7 @@ order: 3
 #### Spring 2024
 
 <!-- ECON 611 - Macroeconomic Theory II -->
-ECON 611 - Macroeconomic Theory I (Graduate)
+ECON 611 - Macroeconomic Theory II (Graduate)
 * Teaching Assistant for Prof. Kaiji Chen, Ph.D.
 * Relevant topics: Asset pricing, equilibrium with complete markets: Arrow-Debreu and sequential markets structures, permanent-income life-cycle models (PILCH): baseline model, partial equilibrium extension, general equilibrium, general equilibrium with aggregate uncertainty.
 
