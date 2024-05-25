@@ -6,7 +6,7 @@ order: 0
 
 Welcome to my professional page!
 
-This is Jafet Alejandro Baca Obando, an Economics enthusiast from Nicaragua and a second-year Ph.D. student in Economics at Emory University, GA.
+This is Jafet Alejandro Baca Obando, an Economics enthusiast from Nicaragua and a rising third-year Ph.D. student in Economics at Emory University, GA.
 
 I graduated <em>Magna Cum Laude</em> from Universidad Centroamericana (UCA-Nicaragua) in April 2021 with a Bachelor's Degree in Applied Economics.
 
