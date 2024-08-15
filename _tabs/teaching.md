@@ -23,10 +23,6 @@ ECON 626 - Quantitative Economics I (Graduate)
 ### Teaching assistance
 
 #### Fall 2024
-<!-- ECON 210 - Intermediate macroeconomics -->
-ECON 210 - Intermediate Macroeconomics (Undergraduate)
-* Teaching assistant for Prof. Vivian Yue, Ph.D.
-* Relevant topics: 
 
 <!-- ECON 626 - Quantitative Economics -->
 ECON 610 - Macroeconomic Theory I (Graduate)
