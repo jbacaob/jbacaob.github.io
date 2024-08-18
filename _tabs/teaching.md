@@ -10,6 +10,7 @@ order: 3
 ### Co-teaching
 
 ##### **Fall 2024**
+
 - ECON 526 - Quantitative Economics I (Graduate)
     - Co-instructor with Prof. Daniel Levy, Ph.D.
     - Relevant topics: Logic, methods of proof, linear algebra, basic topology, real analysis, optimization.
@@ -21,6 +22,7 @@ order: 3
 ### Teaching assistance
 
 ##### **Fall 2024**
+
 - ECON 610 - Macroeconomic Theory I (Graduate)
     - Teaching assistant for Prof. Vivian Yue, Ph.D.
     - Relevant topics: Dynamic programming; optimal growth model; overlapping generations model; job search, matching, and unemployment
