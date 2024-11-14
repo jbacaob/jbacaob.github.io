@@ -1,6 +1,6 @@
 ---
 # the default layout is 'page'
-title: Publications
+title: Research
 icon: fa-solid fa-book
 order: 1
 ---
