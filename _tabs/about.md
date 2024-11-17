@@ -10,7 +10,7 @@ This is Jafet Alejandro Baca Obando, an Economics enthusiast from Nicaragua and 
 
 I graduated <em>Magna Cum Laude</em> from Universidad Centroamericana (UCA-Nicaragua) in April 2021 with a Bachelor's Degree in Applied Economics.
 
-Some of my hobbies include solving Euclidean Geometry problems and learning code.
+Some of my hobbies include hiking, solving Euclidean Geometry problems, and learning code.
 
 <div class="row">
     <div class="column" style="float: left;width: 50%;">
