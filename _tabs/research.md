@@ -5,7 +5,11 @@ icon: fa-solid fa-book
 order: 1
 ---
 
-## Working Papers and Essays
+## Work in Progress
+
+1. Baca, J. (2024). Remittance Inflows and Financial Amplification in Emerging Economies. Third-year field paper project.
+
+## Dormant Working Papers and Essays
 
 1. Baca, J. (2021). [Crecimiento Económico y la Restricción Externa en un Contexto Multisectorial y Multilateral: El Caso de Nicaragua](https://www.bcn.gob.ni/system/files_force/documentos/DT085_Crecimiento_econ%C3%B3mico_y_la_restricci%C3%B3n_externa.pdf?download=1). Documento de Trabajo 85, Banco Central de Nicaragua.
 
