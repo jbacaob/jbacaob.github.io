@@ -9,7 +9,7 @@ order: 3
 
 ### Co-teaching
 
-##### **Fall 2024**
+##### **Fall 2024 and Fall 2025**
 
 - ECON 526 - Quantitative Economics I (Graduate)
     - Co-instructor with Prof. Daniel Levy, Ph.D.
