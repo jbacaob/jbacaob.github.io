@@ -7,6 +7,13 @@ order: 3
 
 ## Emory University
 
+### Teaching
+
+#### **Fall 2025**
+
+- ECON 220 - Data Science for Economists, Lab (Undergraduate)
+    - Relevant topics: Data cleaning and visualization, probability functions, central limit theorem, hypothesis testing, all of these in Python
+
 ### Co-teaching
 
 ##### **Fall 2024 and Fall 2025**
