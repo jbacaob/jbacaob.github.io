@@ -7,7 +7,7 @@ order: 3
 
 ## Emory University
 
-### Teaching
+### Instructor of record
 
 #### **Fall 2025**
 
