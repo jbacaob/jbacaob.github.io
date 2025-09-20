@@ -7,7 +7,11 @@ order: 1
 
 ## Work in Progress
 
-1. Baca, J. (2024). Remittance Inflows and Financial Amplification in Emerging Economies. Third-year field paper project.
+1. **Remittance Inflows and Financial Amplification in Emerging Economies**. Field paper project.
+
+## Working Papers
+
+1. **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**, with Andres Blanco and Andres Drenik. First draft: September 2025. Prepared for a special issue of the _IMF Economic Review_. [Paper](https://drive.google.com/file/d/1xokCUNR2QIav7S5_2TGC1pZ3sBe1ssad/view). 
 
 ## Dormant Working Papers and Essays
 
