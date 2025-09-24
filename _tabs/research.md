@@ -8,6 +8,7 @@ order: 1
 ## Work in Progress
 
 1. **Remittance Inflows and Financial Amplification in Emerging Economies**. Field paper project.
+2. **Climate Policy and Sovereign Default Risk**, with Vivian Yue and Givi Melkadze. 
 
 ## Working Papers
 
@@ -15,14 +16,19 @@ order: 1
 
 ## Dormant Working Papers and Essays
 
-1. Baca, J. (2021). [Crecimiento Económico y la Restricción Externa en un Contexto Multisectorial y Multilateral: El Caso de Nicaragua](https://www.bcn.gob.ni/system/files_force/documentos/DT085_Crecimiento_econ%C3%B3mico_y_la_restricci%C3%B3n_externa.pdf?download=1). Documento de Trabajo 85, Banco Central de Nicaragua.
+1. **Crecimiento Económico y la Restricción Externa en un Contexto Multisectorial y Multilateral: El Caso de Nicaragua**. November 2021. Working Paper 85, Banco Central de Nicaragua.
+[Paper](https://www.bcn.gob.ni/system/files_force/documentos/DT085_Crecimiento_econ%C3%B3mico_y_la_restricci%C3%B3n_externa.pdf?download=1). 
 
-2. Baca, J. (2021). [Shock Symmetry and Business Cycle Synchronization: Is Monetary Unification Feasible among CAPADR Countries?](https://arxiv.org/pdf/2112.02063.pdf).
+3. **Shock Symmetry and Business Cycle Synchronization: Is Monetary Unification Feasible among CAPADR Countries?**. October 2021.
+[Paper](https://arxiv.org/pdf/2112.02063.pdf).
 
-3. Baca, J. (2020). [La Humanidad frente a los Retos Globales: COVID-19. Un Análisis desde una Perspectiva Socioeconómica](https://jbacaob.com/assets/pdf/E_Covid19.pdf). Universidad Centroamericana.
+5. **La Humanidad frente a los Retos Globales: COVID-19. Un Análisis desde una Perspectiva Socioeconómica**. April 2020. First place in the _Knowledge Production Contest_ organized by Universidad Centroamericana, essay category.
+[Paper](https://jbacaob.com/assets/pdf/E_Covid19.pdf).
 
 ## Mathematical Handouts
 
-1. Baca, J. (2020). [On Mixtilinear Incircles](https://jbacaob.com/assets/pdf/mr_2_2020_mixtilinear.pdf). Mathematical Reflections, 2.
+1. On Mixtilinear Incircles. March 2020. _Mathematical Reflections, 2_.
+[Paper](https://jbacaob.com/assets/pdf/mr_2_2020_mixtilinear.pdf)
 
-2. Baca, J. (2019). [On a Special Center of Spiral Similarity](https://jbacaob.com/assets/pdf/mr_1_2019_spiral_similarity.pdf). Mathematical Reflections, 1.
+3. On a Special Center of Spiral Similarity. January 2019. _Mathematical Reflections, 1_.
+[Paper](https://jbacaob.com/assets/pdf/mr_1_2019_spiral_similarity.pdf). Mathematical Reflections, 1.
