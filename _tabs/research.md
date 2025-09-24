@@ -8,7 +8,7 @@ order: 1
 ## Work in Progress
 
 1. **Remittance Inflows and Financial Amplification in Emerging Economies**. Field paper project.
-2. **How Does Inflation ``Grease the Wheels'' in a Frictional Labor Market?, with Andrés Blanco and Andrés Drenik. 
+2. **How Does Inflation ``Grease the Wheels'' in a Frictional Labor Market?**, with Andrés Blanco and Andrés Drenik. 
 3. **Climate Policy and Sovereign Default Risk**, with Vivian Yue and Givi Melkadze. 
 
 ## Working Papers
