@@ -31,4 +31,4 @@ order: 1
 [Paper](https://jbacaob.com/assets/pdf/mr_2_2020_mixtilinear.pdf)
 
 3. On a Special Center of Spiral Similarity. January 2019. _Mathematical Reflections, 1_.
-[Paper](https://jbacaob.com/assets/pdf/mr_1_2019_spiral_similarity.pdf). Mathematical Reflections, 1.
+[Paper](https://jbacaob.com/assets/pdf/mr_1_2019_spiral_similarity.pdf)
