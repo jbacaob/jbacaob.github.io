@@ -8,12 +8,12 @@ order: 1
 ## Work in Progress
 
 1. **Remittance Inflows and Financial Amplification in Emerging Economies**. Field paper project.
-2. **How Does Inflation ''Grease the Wheels'' in a Frictional Labor Market?**, with Andrés Blanco and Andrés Drenik. 
-3. **Climate Policy and Sovereign Default Risk**, with Vivian Yue and Givi Melkadze. 
+2. **How Does Inflation ''Grease the Wheels'' in a Frictional Labor Market?**, with [Andrés Blanco](https://www.andresjblanco.com/) and [Andrés Drenik](http://www.andresdrenik.com/research). 
+3. **Climate Policy and Sovereign Default Risk**, with [Vivian Yue](https://sites.google.com/site/vyuesite/) and [Givi Melkadze](https://sites.google.com/view/givi-melkadze/home?authuser=0). 
 
 ## Working Papers
 
-1. **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**, with Andrés Blanco and Andrés Drenik. First draft: September 2025. Prepared for a special issue of the _IMF Economic Review_. [Paper](https://drive.google.com/file/d/1xokCUNR2QIav7S5_2TGC1pZ3sBe1ssad/view). 
+1. **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**, with [Andrés Blanco](https://www.andresjblanco.com/) and [Andrés Drenik](http://www.andresdrenik.com/research). First draft: September 2025. Prepared for a special issue of the _IMF Economic Review_. [Paper](https://drive.google.com/file/d/1xokCUNR2QIav7S5_2TGC1pZ3sBe1ssad/view). 
 
 ## Dormant Working Papers and Essays
 
