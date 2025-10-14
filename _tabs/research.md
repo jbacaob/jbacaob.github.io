@@ -28,8 +28,8 @@ order: 1
 
 ## Mathematical Handouts
 
-1. On Mixtilinear Incircles. March 2020. _Mathematical Reflections, 2_.
+1. **On Mixtilinear Incircles**. March 2020. _Mathematical Reflections, 2_.
 [Paper](https://jbacaob.com/assets/pdf/mr_2_2020_mixtilinear.pdf)
 
-3. On a Special Center of Spiral Similarity. January 2019. _Mathematical Reflections, 1_.
+2. **On a Special Center of Spiral Similarity**. January 2019. _Mathematical Reflections, 1_.
 [Paper](https://jbacaob.com/assets/pdf/mr_1_2019_spiral_similarity.pdf)
