@@ -26,7 +26,7 @@ order: 3
 - ECON 626 - Quantitative Economics I (Graduate)
     - Co-instructor with Prof. Daniel Levy, Ph.D.
     - Relevant topics: Differential equations, difference equations
-    - **Student evaluation: 8.37/9**, **8.54/9** (2024)
+    - **Student evaluation: 8.37/9** (2025), **8.54/9** (2024)
 
 ### Teaching assistance
 
