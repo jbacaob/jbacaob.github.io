@@ -21,11 +21,12 @@ order: 3
 - ECON 526 - Quantitative Economics I (Graduate)
     - Co-instructor with Prof. Daniel Levy, Ph.D.
     - Relevant topics: Logic, methods of proof, linear algebra, basic topology, real analysis, optimization.
-    - Student evaluation: 8.17/9
+    - **Student evaluation: 8.17/9** (2025), **8.10/9** (2024)
 
 - ECON 626 - Quantitative Economics I (Graduate)
     - Co-instructor with Prof. Daniel Levy, Ph.D.
     - Relevant topics: Differential equations, difference equations
+    - **Student evaluation: 8.37/9**, **8.54/9** (2024)
 
 ### Teaching assistance
 
