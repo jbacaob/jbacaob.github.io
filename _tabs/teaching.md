@@ -13,6 +13,7 @@ order: 3
 
 - ECON 220 - Data Science for Economists, Lab (Undergraduate)
     - Relevant topics: Data cleaning and visualization, probability functions, central limit theorem, hypothesis testing, all of these in Python
+    - [Course materials](https://github.com/jbacaob/ECON-220-Lab/tree/main)
 
 ### Co-teaching
 
