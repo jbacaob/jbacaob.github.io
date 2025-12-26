@@ -10,7 +10,7 @@ This is Jafet Baca, an Economics enthusiast from Nicaragua and a fourth-year Ph.
 
 I graduated <em>Magna Cum Laude</em> from Universidad Centroamericana (UCA-Nicaragua) in April 2021 with a Bachelor's Degree in Applied Economics.
 
-Some of my hobbies include hiking, solving Euclidean Geometry problems, and learning code.
+Some of my hobbies include hiking, solving Euclidean Geometry problems, and coding.
 
 <div class="row">
     <div class="column" style="float: left;width: 50%;">
