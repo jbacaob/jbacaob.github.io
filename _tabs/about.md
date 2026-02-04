@@ -17,7 +17,7 @@ Some of my hobbies include hiking, solving Euclidean Geometry problems, and codi
         <h2>Interests</h2>
         <ul class="fa-ul">
             <li><span class="fa-li"><i class="fa-solid fa-earth-americas"></i></span>International Macroeconomics</li>
-            <li><span class="fa-li"><i class="fa-solid fa-chart-simple"></i></span>Macroeconomics</li>
+            <li><span class="fa-li"><i class="fa-solid fa-chart-simple"></i></span>Monetary Macroeconomics</li>
             <li><span class="fa-li"><i class="fa-solid fa-code"></i></span>Computational Macroeconomics</li>
         </ul>
     </div>
