@@ -13,7 +13,7 @@ order: 1
 
 ## Working Papers
 
-1. **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**, with [Andrés Blanco](https://www.andresjblanco.com/) and [Andrés Drenik](https://www.andresdrenik.com/research). First draft: September 2025. Prepared for a special issue of the _IMF Economic Review_. [Paper](https://drive.google.com/file/d/1xokCUNR2QIav7S5_2TGC1pZ3sBe1ssad/view). 
+1. **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**, with [Andrés Blanco](https://www.andresjblanco.com/) and [Andrés Drenik](https://www.andresdrenik.com/research). First draft: September 2025. Prepared for a special issue of the _IMF Economic Review_. [Paper](https://jbacaob.com/assets/pdf/BBD_2026.pdf). 
 
 ## Dormant Working Papers and Essays
 
