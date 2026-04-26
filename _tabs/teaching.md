@@ -13,6 +13,7 @@ order: 3
 
 - ECON 220 - Data Science for Economists, Lab (Undergraduate)
     - Relevant topics: Data cleaning and visualization, probability functions, central limit theorem, hypothesis testing, all of these in Python
+    - [Course materials](https://github.com/jbacaob/ECON-220-Lab/tree/main)
 
 ### Co-teaching
 
@@ -21,10 +22,12 @@ order: 3
 - ECON 526 - Quantitative Economics I (Graduate)
     - Co-instructor with Prof. Daniel Levy, Ph.D.
     - Relevant topics: Logic, methods of proof, linear algebra, basic topology, real analysis, optimization.
+    - **Student evaluation: 8.17/9** (2025), **8.10/9** (2024)
 
 - ECON 626 - Quantitative Economics I (Graduate)
     - Co-instructor with Prof. Daniel Levy, Ph.D.
     - Relevant topics: Differential equations, difference equations
+    - **Student evaluation: 8.37/9** (2025), **8.54/9** (2024)
 
 ### Teaching assistance
 
