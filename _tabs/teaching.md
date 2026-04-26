@@ -5,67 +5,50 @@ icon: fa-solid fa-chalkboard
 order: 3
 ---
 
-## Emory University
+### Co-Teaching (Emory University)
 
-### Instructor of record
+> **ECON 526 - Quantitative Economics I (G)**  
+> Fall 2025 / Fall 2024 · Co-instructor with [Prof. Daniel Levy, Ph.D.](https://economics.emory.edu/people/faculty/biography/levy-daniel.html)   
+> Topics: Logic, methods of proof, linear algebra, basic topology, real analysis, optimization  
+> Student evaluation: 8.17/9 (2025), 8.10/9 (2024)
 
-#### **Fall 2025**
+> **ECON 626 - Quantitative Economics II (G)**  
+> Fall 2025 / Fall 2024 · Co-instructor with [Prof. Daniel Levy, Ph.D.](https://economics.emory.edu/people/faculty/biography/levy-daniel.html)   
+> Topics: Differential equations, difference equations  
+> Student evaluation: 8.37/9 (2025), 8.54/9 (2024)
 
-- ECON 220 - Data Science for Economists, Lab (Undergraduate)
-    - Relevant topics: Data cleaning and visualization, probability functions, central limit theorem, hypothesis testing, all of these in Python
-    - [Course materials](https://github.com/jbacaob/ECON-220-Lab/tree/main)
+### Teaching (Emory University)
 
-### Co-teaching
+> **ECON 610 - Macroeconomic Theory II (G)**  
+> Fall 2024 · Teaching Assistant for [Prof. Alexander Monge-Naranjo, Ph.D.](https://economics.emory.edu/people/faculty/biography/monge-naranjo-alexander.html)  
+> Topics: Aggregation and asset pricing, incomplete markets and heterogeneity, incomplete markets with default, recursive contracts
 
-##### **Fall 2024 and Fall 2025**
+> **[ECON 220 - Data Science for Economists, Lab (U)](https://github.com/jbacaob/ECON-220-Lab/tree/main)**  
+> Fall 2025 · Instructor of Record  
+> Topics: Data cleaning and visualization, probability functions, central limit theorem, hypothesis testing in Python
 
-- ECON 526 - Quantitative Economics I (Graduate)
-    - Co-instructor with Prof. Daniel Levy, Ph.D.
-    - Relevant topics: Logic, methods of proof, linear algebra, basic topology, real analysis, optimization.
-    - **Student evaluation: 8.17/9** (2025), **8.10/9** (2024)
+> **ECON 610 - Macroeconomic Theory I (G)**  
+> Fall 2024 · Teaching Assistant for [Prof. Vivian Yue, Ph.D.](https://economics.emory.edu/people/faculty/biography/yue-zhanwei-vivian.html)  
+> Topics: Dynamic programming, optimal growth model, overlapping generations model, job search, matching, and unemployment
 
-- ECON 626 - Quantitative Economics I (Graduate)
-    - Co-instructor with Prof. Daniel Levy, Ph.D.
-    - Relevant topics: Differential equations, difference equations
-    - **Student evaluation: 8.37/9** (2025), **8.54/9** (2024)
+> **ECON 611 - Macroeconomic Theory II (G)**  
+> Spring 2024 · Teaching Assistant for [Prof. Kaiji Chen, Ph.D.](https://economics.emory.edu/people/faculty/biography/chen-kaiji.html)
+> Topics: Asset pricing, arrow-debreu and sequential markets, permanent-income life-cycle models, general equilibrium with aggregate uncertainty
 
-### Teaching assistance
+> **ECON 415 - Behavioral Economics and Finance (U)**  
+> Fall 2023 · Teaching Assistant for [Prof. Kelli Lanier, Ph.D.](https://economics.emory.edu/people/faculty/biography/lanier-kelli.html)  
+> Topics: Mental accounting and framing, prospect theory, behavioral finance, anchoring and adjustment, theories of fairness, asset bubbles, tax evasion, exponential and hyperbolic discounting
 
-##### **Fall 2024**
+> **ECON 310 - Experimental Economics (U)**  
+> Fall 2023 · Teaching Assistant for [Prof. Kelli Lanier, Ph.D.](https://economics.emory.edu/people/faculty/biography/lanier-kelli.html)  
+> Topics: Experiment design, auctions, public goods
 
-- ECON 610 - Macroeconomic Theory I (Graduate)
-    - Teaching assistant for Prof. Vivian Yue, Ph.D.
-    - Relevant topics: Dynamic programming; optimal growth model; overlapping generations model; job search, matching, and unemployment
+### Teaching (Universidad Centroamericana)
 
-##### **Spring 2024**
+> **ECO128 - Macroeconomics II (U)**  
+> Spring 2020 · Teaching Assistant for Prof. C. Pacheco, M. Sc.  
+> Topics: Modern macroeconomic analysis, short-run model of a closed/open economy, alternative approaches to mainstream macroeconomics
 
-- ECON 611 - Macroeconomic Theory II (Graduate)
-    - Teaching Assistant for Prof. Kaiji Chen, Ph.D.
-    - Relevant topics: Asset pricing, equilibrium with complete markets: Arrow-Debreu and sequential markets structures, permanent-income life-cycle models (PILCH): baseline model, partial equilibrium extension, general equilibrium, general equilibrium with aggregate uncertainty.
-
-##### **Fall 2023**
-
-- ECON 415 - Behavioral Economics and Finance (Undergraduate)
-    - Teaching Assistant for Prof. Kelli Lanier, Ph.D.
-    - Relevant topics: Mental accounting and framing, prospect theory, behavioral finance, anchoring and adjustment, theories of fairness,
-    asset bubbles, tax evasion, exponential and hyperbolic discounting.
-
-- ECON 310 - Experimental Economics (Undergraduate)
-    - Teaching Assistant for Prof. Kelli Lanier, Ph.D.
-    - Relevant topics: Experiment design, auctions, public goods.
-
-## Universidad Centroamericana
-
-### Teaching assistance
-
-##### **Spring 2020**
-
-- ECO128 - Macroeconomics II (Undergraduate)
-    - Teaching Assistant for Prof. C. Pacheco, M. Sc.
-    - Relevant topics: Introduction to modern macroeconomic analysis, modern short-run model of a closed/open economy, alternative approaches to mainstream macroeconomics.
-
-##### **Fall 2020**
-
-- ECO022 - Econometrics II (Undergraduate)
-    - Teaching Assistant for Prof. A. López-Espinoza, M. Sc.
-    - Relevant topics: Statistical theory of time series, filtering and decomposition, multivariate and univariate time series models.
+> **ECO022 - Econometrics II (U)**  
+> Fall 2020 · Teaching Assistant for Prof. A. Lopez-Espinoza, M. Sc.  
+> Topics: Statistical theory of time series, filtering and decomposition, multivariate and univariate time series models
