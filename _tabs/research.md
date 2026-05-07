@@ -22,7 +22,7 @@ order: 1
 >
 >
 
-## Working Papers
+## Publications
 
 > **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**   
 > with [Andrés Blanco](https://www.andresjblanco.com/) · [Andrés Drenik](https://www.andresdrenik.com/research)  
