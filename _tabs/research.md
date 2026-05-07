@@ -26,7 +26,7 @@ order: 1
 
 > **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**   
 > with [Andrés Blanco](https://www.andresjblanco.com/) · [Andrés Drenik](https://www.andresdrenik.com/research)  
-> April 2026 · Prepared for a special issue of the _IMF Economic Review_. Conditionally accepted.   
+> May 2026 · Prepared for a special issue of the _IMF Economic Review_. Accepted.   
 > [Paper](https://jbacaob.com/assets/pdf/BBD_2026.pdf) · [Code](https://doi.org/10.5281/zenodo.19821956)
 
 
