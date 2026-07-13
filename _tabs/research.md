@@ -12,6 +12,11 @@ order: 1
 > 
 >
 
+> **Remittance Shocks**   
+> with [Justin Eloriaga](https://justineloriaga.com/)
+> 
+>
+
 > **How Does Inflation 'Grease the Wheels' in a Frictional Labor Market?**   
 > with [Andrés Blanco](https://www.andresjblanco.com/) · [Andrés Drenik](https://www.andresdrenik.com/research)
 >
