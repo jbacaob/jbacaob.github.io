@@ -34,3 +34,5 @@ Some of my hobbies include hiking, solving Euclidean Geometry problems, and codi
         </ul>
     </div>
 </div> 
+
+Profile photo courtesy of [Jin Zhang](https://jinzhangoo7.github.io/).
