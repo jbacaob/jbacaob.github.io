@@ -7,16 +7,6 @@ order: 1
 
 ## Work in Progress
 
-> **Remittance Inflows and Financial Amplification in Emerging Economies**
->
-> 
->
-
-> **Remittance Shocks**   
-> with [Justin Eloriaga](https://justineloriaga.com/)
-> 
->
-
 > **How Does Inflation 'Grease the Wheels' in a Frictional Labor Market?**   
 > with [Andrés Blanco](https://www.andresjblanco.com/) · [Andrés Drenik](https://www.andresdrenik.com/research)
 >
@@ -25,6 +15,16 @@ order: 1
 > **Climate Policy and Sovereign Default Risk**   
 > with [Vivian Yue](https://sites.google.com/site/vyuesite/) · [Givi Melkadze](https://sites.google.com/view/givi-melkadze/home?authuser=0)
 >
+>
+
+> **Remittance Shocks, Insurance, and Overborrowing**   
+> with [Justin Eloriaga](https://justineloriaga.com/)
+> 
+>
+
+> **Remittance Inflows and Financial Amplification in Emerging Economies**
+>
+> 
 >
 
 ## Publications
