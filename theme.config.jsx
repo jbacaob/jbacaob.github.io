@@ -1,41 +1,31 @@
 export default {
-  footer: (
-    <small style={{ display: 'block', marginTop: '8rem' }}>
-      <time>{new Date().getFullYear()}</time> © Jafet Baca-Obando.
-      <style jsx>{`
-        a {
-          float: right;
-        }
-        @media screen and (max-width: 480px) {
-          article {
-            padding-top: 2rem;
-            padding-bottom: 4rem;
-          }
-        }
-      `}</style>
-    </small>
-  ),
-  head: ({ title, meta }) => (
-    <>
-      {meta.description && (
-        <meta name="description" content={meta.description} />
-      )}
-      {meta.tag && <meta name="keywords" content={meta.tag} />}
-      {meta.author && <meta name="author" content={meta.author} />}
-      <title>{title ? `${title} | Jafet Baca` : 'Jafet Baca'}</title>
-    </>
-  ),
-  readMore: 'Read More →',
-  postFooter: null,
-  darkMode: true,
-  navs: [
-    {
-      url: 'https://github.com/jbacaob',
-      name: 'GitHub'
-    },
-    {
-      url: 'https://twitter.com/jbacaob',
-      name: 'Twitter'
+  logo: <span>Jafet Baca</span>,
+  project: {
+    link: 'https://github.com/jbacaob',
+  },
+  chat: {
+    link: 'https://twitter.com/jbacaob',
+    icon: (
+      <svg width="24" height="24" viewBox="0 0 24 24">
+        <path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/>
+      </svg>
+    )
+  },
+  docsRepositoryBase: 'https://github.com/jbacaob/jbacaob.github.io/blob/main',
+  footer: {
+    text: (
+      <span>
+        © {new Date().getFullYear()} Jafet Baca-Obando.
+      </span>
+    )
+  },
+  useNextSeoProps() {
+    return {
+      titleTemplate: '%s – Jafet Baca'
     }
-  ]
+  },
+  sidebar: {
+    defaultMenuCollapseLevel: 1,
+    toggleButton: true
+  }
 }
