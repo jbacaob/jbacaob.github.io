@@ -1,0 +1,26 @@
+{
+  "index": {
+    "title": "Home",
+    "type": "page"
+  },
+  "research": {
+    "title": "Research",
+    "type": "page"
+  },
+  "teaching": {
+    "title": "Teaching",
+    "type": "page"
+  },
+  "cv": {
+    "title": "CV",
+    "type": "page"
+  },
+  "resources": {
+    "title": "Resources",
+    "type": "page"
+  },
+  "blog": {
+    "title": "Blog",
+    "type": "page"
+  }
+}
