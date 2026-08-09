@@ -7,7 +7,7 @@ order: 1
 
 ## Work in Progress
 
-> **Grease or Sand in the Wheels? The Distributional Consequences of Large Devaluations**
+> **Grease or Sand in the Wheels? The Distributional Consequences of Large Devaluations**   
 > Job Market Paper
 > 
 >
