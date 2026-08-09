@@ -1,4 +1,4 @@
-import { getAllPosts } from "@/lib/mdx";
+import { getAllPosts } from "../../lib/mdx";
 import Link from "next/link";
 
 export default function BlogIndex() {

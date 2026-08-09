@@ -9,8 +9,10 @@ export function getPostBySlug(slug: string, folder: string = 'blog') {
   
   // Try .md first, then .mdx
   let fullPath = path.join(contentDirectory, folder, `${realSlug}.md`)
+  let format: 'md' | 'mdx' = 'md'
   if (!fs.existsSync(fullPath)) {
     fullPath = path.join(contentDirectory, folder, `${realSlug}.mdx`)
+    format = 'mdx'
   }
   
   if (!fs.existsSync(fullPath)) return null
@@ -18,7 +20,7 @@ export function getPostBySlug(slug: string, folder: string = 'blog') {
   const fileContents = fs.readFileSync(fullPath, 'utf8')
   const { data, content } = matter(fileContents)
 
-  return { slug: realSlug, meta: data, content }
+  return { slug: realSlug, meta: data, content, format }
 }
 
 export function getAllPosts(folder: string = 'blog') {

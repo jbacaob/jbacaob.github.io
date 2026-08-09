@@ -1,6 +1,7 @@
-import { getPostBySlug, getAllPosts } from "@/lib/mdx";
+import { getPostBySlug, getAllPosts } from "../../../lib/mdx";
 import { notFound } from "next/navigation";
 import { MDXRemote } from "next-mdx-remote/rsc";
+import Link from "next/link";
 
 import remarkMath from "remark-math";
 import rehypeKatex from "rehype-katex";
@@ -32,8 +33,10 @@ export default function BlogPost({ params }: { params: { slug: string } }) {
       <div className="mt-8 prose prose-zinc dark:prose-invert max-w-none">
         <MDXRemote 
           source={post.content} 
+          components={{ Link }}
           options={{
             mdxOptions: {
+              format: post.format,
               remarkPlugins: [remarkMath],
               rehypePlugins: [rehypeKatex],
             }
