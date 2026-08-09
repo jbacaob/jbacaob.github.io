@@ -7,6 +7,11 @@ order: 1
 
 ## Work in Progress
 
+> **Grease or Sand in the Wheels? The Distributional Consequences of Large Devaluations**
+> Job Market Paper
+> 
+>
+
 > **How Does Inflation 'Grease the Wheels' in a Frictional Labor Market?**   
 > with [Andrés Blanco](https://www.andresjblanco.com/) · [Andrés Drenik](https://www.andresdrenik.com/research)
 >
@@ -22,10 +27,6 @@ order: 1
 > 
 >
 
-> **Remittance Inflows and Financial Amplification in Emerging Economies**
->
-> 
->
 
 ## Publications
 

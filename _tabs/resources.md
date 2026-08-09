@@ -12,7 +12,7 @@ order: 4
 
 ## Euclidean Geometry Materials
   
-In previous years, I came up with some handouts on Euclidean Geometry problem-solving strategies, with the primary intention of supporting aspiring mathletes. Their most recent versions, written in Spanish, can be found here. 
+In previous years, I came up with some handouts on Euclidean Geometry problem-solving strategies to help aspiring mathletes. Their most recent versions, written in Spanish, can be found here. 
     
 ### Introductory
 
