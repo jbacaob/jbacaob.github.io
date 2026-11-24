@@ -16,7 +16,7 @@ order: 1
 
 > **Sudden Stops, Steady Remittances**   
 > with [Justin Eloriaga](https://justineloriaga.com/)
-> November 2026 · Working Paper No. 248.
+> November 2026 · IMF Working Paper No. 248.
 > [Empirical Paper](https://www.imf.org/en/publications/wp/issues/2026/11/20/sudden-stops-steady-remittances-581086)
 >
 >
