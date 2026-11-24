@@ -5,6 +5,22 @@ icon: fa-solid fa-book
 order: 1
 ---
 
+## Publications
+
+> **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**   
+> with [Andrés Blanco](https://www.andresjblanco.com/) · [Andrés Drenik](https://www.andresdrenik.com/research)  
+> June 2026 · _IMF Economic Review_, 74(2), 311-337.   
+> [Paper](https://link.springer.com/article/10.1057/s41308-026-00317-1) · [Working paper](https://jbacaob.com/assets/pdf/BBD_2026.pdf) · [Code](https://doi.org/10.5281/zenodo.19821956)
+
+## Working Papers
+
+> **Sudden Stops, Steady Remittances**   
+> with [Justin Eloriaga](https://justineloriaga.com/)
+> November 2026 · Working Paper No. 248.
+> [Empirical Paper](https://www.imf.org/en/publications/wp/issues/2026/11/20/sudden-stops-steady-remittances-581086)
+>
+>
+
 ## Work in Progress
 
 > **Grease or Sand in the Wheels? The Distributional Consequences of Large Devaluations**   
@@ -21,19 +37,6 @@ order: 1
 > with [Vivian Yue](https://sites.google.com/site/vyuesite/) · [Givi Melkadze](https://sites.google.com/view/givi-melkadze/home?authuser=0)
 >
 >
-
-> **Remittance Shocks, Insurance, and Overborrowing**   
-> with [Justin Eloriaga](https://justineloriaga.com/)
-> 
->
-
-
-## Publications
-
-> **Wage Erosion with Incomplete Markets: A Quantitative Analysis of the Costs of Inflation**   
-> with [Andrés Blanco](https://www.andresjblanco.com/) · [Andrés Drenik](https://www.andresdrenik.com/research)  
-> June 2026 · _IMF Economic Review_, 74(2), 311-337.   
-> [Paper](https://link.springer.com/article/10.1057/s41308-026-00317-1) · [Working paper](https://jbacaob.com/assets/pdf/BBD_2026.pdf) · [Code](https://doi.org/10.5281/zenodo.19821956)
 
 
 ## Dormant Working Papers and Essays
